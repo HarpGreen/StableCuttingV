@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625055587 source:e:\onedrive\fczwork\pgmproject\pgmspeedinsert\main.cpp
+	<cstring>
+	<iostream>
+	<fstream>
+	<cctype>
+	<algorithm>
+
